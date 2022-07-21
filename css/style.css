@@ -1,0 +1,18 @@
+#nav-bar{
+    margin:0;
+    padding:0;
+   position:fixed;
+    top:0;
+  }
+  
+  @media (max-width: 550px) {
+    #features .icon {
+      display: none;
+    }
+  }
+  
+  
+  header{
+    display:flex;
+    
+  }
